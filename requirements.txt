@@ -1,0 +1,14 @@
+transformers==4.57.3
+datasets
+sentence-transformers
+evaluate
+scikit-learn
+umap-learn
+plotly
+pandas
+numpy
+matplotlib
+tqdm
+torch
+wandb
+huggingface-hub
